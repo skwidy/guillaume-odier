@@ -1,7 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Get in touch with Guillaume Odier
 ---
 Happy to talk about Captain Data, entrepreneurship, fundraising, tech, product, sales...
 
