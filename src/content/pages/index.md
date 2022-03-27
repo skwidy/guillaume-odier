@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Guillaume Odier
+tagline: Entrepreneur
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Tech entrepreneur, co-founded [Captain Data](https://captaindata.co) during graduation. Web scraping expert, automation specialist for sales & marketing.
