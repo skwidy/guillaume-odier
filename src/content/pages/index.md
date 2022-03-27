@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Guillaume Odier
 tagline: Entrepreneur
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/guillaume-plain.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
